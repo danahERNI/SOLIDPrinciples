@@ -1,0 +1,7 @@
+C:\Users\extamda\source\repos\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.exe.config
+C:\Users\extamda\source\repos\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.exe
+C:\Users\extamda\source\repos\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.pdb
+C:\Users\extamda\source\repos\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.csproj.AssemblyReference.cache
+C:\Users\extamda\source\repos\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\extamda\source\repos\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.exe
+C:\Users\extamda\source\repos\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.pdb

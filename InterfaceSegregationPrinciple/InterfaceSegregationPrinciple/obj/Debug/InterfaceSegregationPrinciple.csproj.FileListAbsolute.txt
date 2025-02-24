@@ -1,0 +1,7 @@
+C:\Users\extamda\source\repos\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.exe.config
+C:\Users\extamda\source\repos\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.exe
+C:\Users\extamda\source\repos\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.pdb
+C:\Users\extamda\source\repos\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.csproj.AssemblyReference.cache
+C:\Users\extamda\source\repos\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\extamda\source\repos\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.exe
+C:\Users\extamda\source\repos\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.pdb
